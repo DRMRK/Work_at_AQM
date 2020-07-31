@@ -1,5 +1,5 @@
 # Work_at_AQM
-This repo contains work done as part of AQM program on data science.
+This repo contains some of the work I did as part of AQM program on data science.
 1. GLM and Maximum Likelihood
 
 2. Classification, Logistic Regression, GLMs
