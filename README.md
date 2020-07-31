@@ -80,31 +80,31 @@ c)Expectation minimization and Gaussian mixture models
 
 
 
-[**Week1**]
+[**linear_regression**]
 
 Implementation from scratch of multiple linear regression, gradient descent, q-q plot. 
 
-[**Week 2**]
+[**logistic_regression**]
 
 Implementation of logisitic regression, Newton Rhapson, confusion matrix. Explored GLMs, Bernoulli,Binomial, Logistic distributions, derived the log-likelihood, gradient and Hessian of the log likelihood. Interprettion of weights. 
 
-[**Week 3**]
+[**logistic_regression_regularization**]
 
 Implementation of a class of Logistic regression with regularization. Implemented k-fold cross validation, tested on spambase dataset from UCI, plot the ROC curve.
 
-[**Week 5**]
+[**k_means_clustering**]
 
 Implementation of K means clustering on iris dataset. 
 
-[**Week 6**]
+[**NN_two_layers**]
 
 NN two layer, SGD, momentum 
 
-[**Week 7**]
+[**keras_trial**]
 
 Trying out Keras
 
-[**Week 8**]
+[**bank_note_keras**]
 
 Bank note authentication problem using Keras
 
