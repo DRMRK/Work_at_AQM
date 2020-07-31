@@ -80,31 +80,31 @@ c)Expectation minimization and Gaussian mixture models
 
 
 
-[**Week1**](https://github.com/AQM-Repos/MukutRKalita/tree/master/Week1)
+[**Week1**]
 
 Implementation from scratch of multiple linear regression, gradient descent, q-q plot. 
 
-[**Week 2**](https://github.com/AQM-Repos/MukutRKalita/tree/master/Week2)
+[**Week 2**]
 
 Implementation of logisitic regression, Newton Rhapson, confusion matrix. Explored GLMs, Bernoulli,Binomial, Logistic distributions, derived the log-likelihood, gradient and Hessian of the log likelihood. Interprettion of weights. 
 
-[**Week 3**](https://github.com/AQM-Repos/MukutRKalita/tree/master/Week3)
+[**Week 3**]
 
 Implementation of a class of Logistic regression with regularization. Implemented k-fold cross validation, tested on spambase dataset from UCI, plot the ROC curve.
 
-[**Week 5**](https://github.com/AQM-Repos/MukutRKalita/tree/master/Week5)
+[**Week 5**]
 
 Implementation of K means clustering on iris dataset. 
 
-[**Week 6**](https://github.com/AQM-Repos/MukutRKalita/blob/master/Week6/NN_solution.ipynb)
+[**Week 6**]
 
 NN two layer, SGD, momentum 
 
-[**Week 7**](https://github.com/AQM-Repos/MukutRKalita/tree/master/Week7)
+[**Week 7**]
 
 Trying out Keras
 
-[**Week 8**](https://github.com/AQM-Repos/MukutRKalita/blob/master/Week8/Week8solutions.ipynb)
+[**Week 8**]
 
 Bank note authentication problem using Keras
 
